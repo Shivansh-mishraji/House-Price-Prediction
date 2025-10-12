@@ -128,13 +128,12 @@ Visit the live application: [Your Streamlit App URL]
 ```
 house-price-prediction/
 │
-├── 📄 app.py                    # Main Streamlit application
-├── 📄 model_training.py         # Model training script
+├── 📄 app.py                    # Main Streamlit application and Model training script
+├── 📄 STUDENT_GUIDE.md          # Guidence 
 ├── 📊 house_prices_8000.csv     # Dataset file
 ├── 📄 requirements.txt          # Dependencies
 ├── 📄 README.md                 # This file
-├── 📓 analysis.ipynb            # Data analysis notebook
-└── 📄 .gitignore               # Git ignore file
+
 ```
 
 ---
@@ -263,9 +262,9 @@ Feel free to:
 **Shivansh Mishra**  
 🎓 2nd Year B.Tech CSE Student  
 🏛️ BBD University  
-📧 [Your Email]  
-🔗 [Your LinkedIn Profile]  
-🐙 [Your GitHub Profile]  
+📧 Email ID : shivanshmishra.coder@gmail.com  
+🔗 LinkedIn Profile :https://www.linkedin.com/in/shivansh-mishra-132b97358?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app 
+🐙 GitHub Profile : Shivansh-mishraji  
 
 ---
 
@@ -279,12 +278,6 @@ Feel free to:
 - **Started**: As a beginner with basic Python knowledge
 - **Current**: Confident in data science and web development basics
 - **Next**: Exploring advanced ML techniques and cloud deployment
-
----
-
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
 
 ---
 
